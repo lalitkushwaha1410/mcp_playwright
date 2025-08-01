@@ -1,0 +1,12 @@
+Test Scenarios for Review Requests Application
+
+1. Verify successful login with valid credentials
+2. Verify error message appears with invalid credentials
+3. Verify user can create a new review request
+4. Verify user can edit existing review request details
+5. Verify filters work correctly (Content type, Market)
+6. Verify sorting functionality by columns
+7. Verify status tabs show correct counts
+8. Verify Review button functionality
+9. Verify pagination controls
+10. Verify successful logout
