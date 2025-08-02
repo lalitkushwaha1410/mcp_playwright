@@ -6,15 +6,15 @@ Execute a specific test scenario from the JIRA ticket and update the test status
 **REQUIREMENTS:**
  
 1. **Browser Navigation:**
-   - Navigate to: https://authoring.systest.cha.rbxd.ds/review-requests/
+   - Navigate to: https://www.saucedemo.com/v1/index.html
    - Use credentials:
-     - Username: SptCmsTestEditor@cha.rbxd.ds
-     - Password: Passw0rd
+     - Username: standard_user
+     - Password: secret_sauce
    - Mode: Headful (visible browser)
    - Tool: Use Playwright MCP
  
 2. **Read the scenerio from JIRA**
-   - JIRA ticket: https://icis-lnrs.atlassian.net/browse/DASHBOARD-15198
+   - JIRA ticket: https://lalitkush14.atlassian.net/browse/SCRUM-3
    - Tool: Use Atlassian MCP
    - Action: Read the description to understand the scenario
    - Output: Once executed, Write the status in the comment section of the JIRA ticket
